@@ -1,0 +1,13 @@
+name: pdr-demo-build
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - jupyter_server
+  - jupyterlite-core
+  - jupyterlite-pyodide-kernel
+  - notebook
+  - jupyterlab
+  - micropip
+
