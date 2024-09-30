@@ -4,7 +4,7 @@ This is a deployment repository for a GitHub Pages site containing a
 JupyterLite version of the [`pdr`](https://github.com/millionConcepts/pdr) 
 example Notebook.
 
-The deployed Notebook can be found at https://millionconcepts.github.io/pdr-demo.
+The deployed Notebook can be found at https://millionconcepts.github.io/jlite-pdr-demo.
 
 This repository is based on the official JupyterLite Pages deployment template: 
 https://github.com/jupyterlite/demo
